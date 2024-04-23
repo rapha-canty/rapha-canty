@@ -23,7 +23,7 @@
 <div align="center">
   
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=20B2AA&color:FFF)](mailto:raphaclemente05@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=20B2AA&color:FFF)](www.linkedin.com/in/raphael-clemente-cavalcanti)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=20B2AA&color:FFF)](https://www.linkedin.com/in/raphael-clemente-cavalcanti)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=20B2AA&color:FFF)](https://www.instagram.com/rapha.canty/)
 
 </div>
