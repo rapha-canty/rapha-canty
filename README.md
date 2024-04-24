@@ -28,6 +28,12 @@ Eu amo tecnologia, especialmente mexer com front-end. Mas tô sempre aberto a ve
 
 </div>
 
+##
+<h3 align="center">Github stats:</h3>
+
+<img width=55% align="left" src="https://github-readme-stats.vercel.app/api?username=rapha-canty&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vue-dark"/>
+<img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapha-canty&layout=compact&langs_count=7&theme=vue-dark"/>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20B2AA&height=120&section=footer"/>
 
 
