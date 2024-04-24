@@ -9,7 +9,7 @@
 </div>
 
 <p align="left">
-  Sou apaixonado por tecnologia, especialmente pelo desenvolvimento front-end, embora esteja aberto a explorar outras áreas do mercado. Estou sempre em busca de aprender o que há de mais recente em ferramentas, tendências e técnicas. Adoro explorar novos frameworks e aperfeiçoar minhas habilidades em diferentes linguagens para criar experiências incríveis para os usuários. Para mim, a tecnologia vai além do trabalho; é uma paixão que me impulsiona a aprender continuamente e enfrentar novos desafios.
+Eu amo tecnologia, especialmente mexer com front-end. Mas tô sempre aberto a ver o que mais tem nesse mundão de TI. Gosto de ficar sempre atento as novidades, seja lá o que for: ferramentas, tendências, técnicas. Tecnologia pra mim é mais do que trabalho, é paixão mesmo, sempre me puxando pra aprender mais e encarar desafios novos.
 </p> 
 
  ##
